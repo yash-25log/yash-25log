@@ -69,7 +69,15 @@
 <br/>
 
 <p></p>
-<br/>
+<!-- <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="(https://raw.githubusercontent.com/yash-25log/yash-25log/b8285d1fdd2e0cf95512d25f5520ce2c8904b540/github-contribution-grid-snake.svg)" />
+</picture>
+<img alt="github-snake" src="(https://raw.githubusercontent.com/yash-25log/yash-25log/b8285d1fdd2e0cf95512d25f5520ce2c8904b540/github-contribution-grid-snake.svg)" />
+github-contribution-grid-snake.svg -->
 
 <!--### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭 -->
 <!-- ![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg) -->
+
