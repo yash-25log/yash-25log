@@ -7,8 +7,7 @@
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>NextJS</code>, <code>TypeScript</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/in/yash-25log">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>BioLink</b> : <code><a href="https://bio.link/yash_25log">https://bio.link/yash_25log</a></code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://x.com/yash_25log">Twitter</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
