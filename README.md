@@ -26,11 +26,22 @@ I love building high-performance products across the web — from AI-powered Chr
 
 ---
 
-## 🚀 Projects & Achievements  
-- **SnipSavvy** – Code snippet management SaaS, used by 100+ devs  
-- **AI Summarizer Extension** – Summarizes articles, PDFs, videos (GPT-4 powered)  
-- **Digi Sahayak** – Crypto flow investigation tool (Hackathon finalist)  
-- 🥈 2nd Runner-Up @ Rajasthan Police Hackathon & HackOverflow  
+## 🚀 Featured Projects  
+
+- [SnipSavvy](https://github.com/yash-25log/SnipSavvy) – Next.js + MongoDB SaaS for code snippets, used by 150+ developers (SSR, rate limiting, advanced search).  
+- [PullMate](https://github.com/yash-25log/PullMate) – GitHub-integrated tool for AI-driven PR analysis (OAuth 2.0, OpenAI API, PostgreSQL).  
+- [AI Summarizer Extension](https://github.com/yash-25log/DeepKraft-Summarizer) – GPT-4 powered Chrome extension for articles, PDFs & videos (cut API costs 40%).  
+- [Digi Sahayak](https://github.com/yash-25log/Digi-Sahayak) – Crypto flow investigator (Rajasthan Police Hackathon Finalist).  
+
+
+---
+
+## 🏆 Achievements  
+
+- Knight @ LeetCode (1891 rating, 500+ problems solved)  
+- 2nd Runner-Up 🥈 Rajasthan State Police Hackathon (2024)  
+- 2nd Runner-Up 🥈 HackOverflow, Chandigarh Univ. (2022)  
+- Amazon ML Summer School 2023 (Top 5000 in India)  
 
 ---
 
@@ -48,13 +59,11 @@ I love building high-performance products across the web — from AI-powered Chr
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -66,7 +75,6 @@ I love building high-performance products across the web — from AI-powered Chr
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-25log&label=Profile%20views&color=0e75b6&style=flat" alt="yash-25log" /> </p> -->
