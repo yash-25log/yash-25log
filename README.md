@@ -79,7 +79,6 @@ I love building high-performance products across the web — from AI-powered Chr
 <p align="left">
 <a href="https://twitter.com/yash_25log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_25log" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-25log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-25log" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_25log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_25log" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash003log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash003log" height="30" width="40" /></a>
 </p>
 
