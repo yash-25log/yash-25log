@@ -10,27 +10,11 @@ I love building high-performance products across the web — from AI-powered Chr
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C++, JavaScript (ES6+), TypeScript, SQL  
-- **Frontend:** React.js, Next.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **DevOps & Tools:** Git/GitHub, Docker, AWS, CI/CD  
-
----
-
-## 📊 DSA & Problem Solving  
-- 🏆 **Knight** @ LeetCode (1891 rating)  
-- 📈 Solved **500+ problems** across LeetCode & other platforms  
-- 💡 Strong foundations in **DSA, OOPs, and System Design basics**  
-
----
-
 ## 🚀 Featured Projects  
 
-- [SnipSavvy](https://github.com/yash-25log/SnipSavvy) – Next.js + MongoDB SaaS for code snippets, used by 150+ developers (SSR, rate limiting, advanced search).  
+- [SnipSavvy](https://snipsavvy.vercel.app/) – Next.js + MongoDB SaaS for code snippets, used by 150+ developers (SSR, rate limiting, advanced search).  
 - [PullMate](https://github.com/yash-25log/PullMate) – GitHub-integrated tool for AI-driven PR analysis (OAuth 2.0, OpenAI API, PostgreSQL).  
-- [AI Summarizer Extension](https://github.com/yash-25log/DeepKraft-Summarizer) – GPT-4 powered Chrome extension for articles, PDFs & videos (cut API costs 40%).  
+- [AI Summarizer Extension](https://github.com/yash-25log/TorchKb_extension) – GPT-4 powered Chrome extension for articles, PDFs & videos (cut API costs 40%).  
 - [Digi Sahayak](https://github.com/yash-25log/Digi-Sahayak) – Crypto flow investigator (Rajasthan Police Hackathon Finalist).  
 
 
