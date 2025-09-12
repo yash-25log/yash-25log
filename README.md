@@ -1,16 +1,45 @@
 ![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
 <h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
-<img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height=47% width=47% align="right">
+<!-- <img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height=47% width=47% align="right"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-25log" alt="rajan" /> </p>
 
-<p><i> I'm Yash Singhal, an IT Undergraduate from Maharaja Agrasen institute of technology Delhi.  I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE role </b> </i></p>
-<ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>NextJS</code>, <code>TypeScript</code></li>
-<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://x.com/yash_25log">Twitter</a></code></li>
-<li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
-<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
-</ul>
+# Hi there, I'm Yash Singhal 👋  
+
+🚀 **Full Stack Developer | SDE-1 | IT Undergrad @ MAIT Delhi**  
+I love building high-performance products across the web — from AI-powered Chrome extensions to dev tools used by 100+ developers. Passionate about solving problems, exploring new domains, and contributing to impactful projects.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** C++, JavaScript (ES6+), TypeScript, SQL  
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **DevOps & Tools:** Git/GitHub, Docker, AWS, CI/CD  
+
+---
+
+## 📊 DSA & Problem Solving  
+- 🏆 **Knight** @ LeetCode (1891 rating)  
+- 📈 Solved **500+ problems** across LeetCode & other platforms  
+- 💡 Strong foundations in **DSA, OOPs, and System Design basics**  
+
+---
+
+## 🚀 Projects & Achievements  
+- **SnipSavvy** – Code snippet management SaaS, used by 100+ devs  
+- **AI Summarizer Extension** – Summarizes articles, PDFs, videos (GPT-4 powered)  
+- **Digi Sahayak** – Crypto flow investigation tool (Hackathon finalist)  
+- 🥈 2nd Runner-Up @ Rajasthan Police Hackathon & HackOverflow  
+
+---
+
+## 🌱 Currently Learning  
+- Next.js advanced features  
+- System Design principles  
+- Cloud & scalable backend patterns  
+
+---
 
 ### Tech Stack :
 
