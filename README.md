@@ -5,7 +5,7 @@
 
 # Hi there, I'm Yash Singhal 👋  
 
-🚀 **Full Stack Developer | SDE-1 | IT Undergrad @ MAIT Delhi**  
+🚀 **Full Stack Developer | SDE-1**  
 I love building high-performance products across the web — from AI-powered Chrome extensions to dev tools used by 100+ developers. Passionate about solving problems, exploring new domains, and contributing to impactful projects.  
 
 ---
